@@ -26,3 +26,7 @@ Node.js, PostgreSQL, Cloud Run, Pub/Sub, Secret Manager.
 
 ## Working style
 Small steps. Explain tradeoffs briefly. Point out bugs directly.
+
+## Git
+- Never run git add, git commit, git push, or create branches. I do all git operations myself.
+- You may run read-only commands: git status, git diff, git log.

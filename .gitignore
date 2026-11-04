@@ -3,3 +3,4 @@ node_modules/
 *.json.key
 service-account*.json
 myunderstanding.md
+.claude/
